@@ -11,8 +11,4 @@
 
 Welcome to my profile! 😊 </p>
 
-##Connect wiht me:
 
-<a ref:"https://www.linkedin.com/in/giu-feitosa/">
-<img align="left" alt"Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
-</a>
